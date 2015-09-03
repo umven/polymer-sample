@@ -1,0 +1,22 @@
+{
+  "name": "test01",
+  "version": "0.0.0",
+  "authors": [
+    "hyeonju <noma1992@naver.com>"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-elements": "PolymerElements/paper-elements#~1.0.5",
+    "polymer": "Polymer/polymer#~1.1.2"
+  }
+}
